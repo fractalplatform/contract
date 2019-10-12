@@ -7,3 +7,4 @@ fractal contract
 DposReward | Dpos奖励合约代码 | 已部署 | dposcontract.reward
 LockContract | 锁仓合约代码 | 已部署 | dposcontract.lock
 Register | 注册表合约代码 | 未部署 | 
+OrderLockContract | 锁仓(解锁需申请)合约代码 | 未部署 |
